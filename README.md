@@ -6,8 +6,8 @@ J'ai repris un projet scolaire et j'ai décidé de le refaire afin de le mieux c
 
 ## Installation
 
-- Cloner le dépot;
-- Ouvrir le dépot avec Visual Studio Code;
+- Cloner le dépôt;
+- Ouvrir le dépôt avec Visual Studio Code;
 - Effectuer ces lignes de commandes:
   - `npm install` (Cette commande installe les dépendances nécessaires);
   - `npm run build` (Cette commande compile et construit le projet);
